@@ -1,8 +1,8 @@
----------------------------------------------
+*****************************************************
 # Bhanu Pratap Singh's portfolio
 
 
-This is my professional portfolio. It uses aws and ReactJS.
+This is my server-less professional portfolio. It uses AWS and ReactJS.
 
 _____________________
 
