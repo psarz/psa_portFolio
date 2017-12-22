@@ -8,7 +8,6 @@ artifacts:
   files:
     - index.html
     - favicon.ico
-    - latest_resume_25Nov.pdf
+    - Latest_resume.pdf
     - styles/main.css
     - images/*
-    
