@@ -1,6 +1,6 @@
 *****************************************************
 # The server-less Portfolio
-![](https://avatars2.githubusercontent.com/u/15147772?s=460&v=4) 
+![](https://github.com/psarz/psa_portFolio/blob/master/images/Logomakr_0qvKWO.png) 
 
 ------------------------------------------------------------
 
