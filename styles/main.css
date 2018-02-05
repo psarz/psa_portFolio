@@ -81,6 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   Sections
 */
 
+
 .section {
   font-size: 4.2rem;
   min-height: 70vh;
@@ -153,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 /*
   Header
 */
-
+.justify-content-center:center;
 .section__heading--largest {
   float: left;
   font-size: 5rem;
