@@ -1,12 +1,6 @@
 
 version: 0.1
 
-phases:
-  build:
-    commands:
-      - npm install
-      - npm run webpack
-
 artifacts:
   files:
     - index.html
