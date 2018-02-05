@@ -4,6 +4,7 @@
   "description": "my portfolio",
   "main": "index.js",
   "dependencies": {
+    "bootstrap": "^4.0.0",
     "local-web-server": "^2.3.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
